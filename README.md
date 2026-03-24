@@ -4,3 +4,4 @@ En aquest repositori he guardat:
 2) el fitxer problema.pdb del cual hem de separar les diferents estructures.
 3) El fitzer de com ha quedat la visualització en el VMD un cop acabada la tasca (problema_separat_vis_state.vmd)
 4) La carpeta estructures on he separat les diferents estructures del problema en fitxers .xyz i .pdb (aquests amb l'ordinador de la uni que si que em deixa guardar els .pdb)
+5) En la carpeta "sessio 24-03 optimitzacio" he guardat els fitxers mes rellevants de la sessio del dia 24-03-2026 part 1. Geometry optimization of a molecule.
