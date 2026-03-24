@@ -1,4 +1,4 @@
-# Tasca-4-preparaci-sessi-24-03
+# Tasca-4-preparacio-sessio-24-03
 En aquest repositori he guardat:
 1) La estructura de una molecula creada per nosaltres amb el format .xyz i .pdb (aconseguit a parir del xyz perque l'ordinador em donava problemes). En aquest cas he escollit la timina.
 2) el fitxer problema.pdb del cual hem de separar les diferents estructures.
